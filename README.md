@@ -19,6 +19,8 @@
 </div>
 <br/>
 
+![Kelvim Adler GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvimadler&theme=material-palenight&show_icons=true)
+
 
 ##
 
