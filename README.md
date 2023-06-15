@@ -18,7 +18,6 @@
 </div>
 <br/>
 
-<img src="https://assets3.lottiefiles.com/private_files/lf30_WdTEui.json"/>
 
 ##
 
