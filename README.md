@@ -21,4 +21,4 @@
 
 ##
 
-![Snake animation](https://assets3.lottiefiles.com/private_files/lf30_WdTEui.json)
+![Snake animation](https://github.com/kelvimadler/gifprofile/blob/main/github-contribution-grid-snake.svg)
